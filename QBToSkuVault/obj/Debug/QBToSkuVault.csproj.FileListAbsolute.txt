@@ -1,0 +1,8 @@
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\bin\Debug\QBToSkuVault.exe.config
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\bin\Debug\QBToSkuVault.exe
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\bin\Debug\QBToSkuVault.pdb
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\obj\Debug\QBToSkuVault.csprojResolveAssemblyReference.cache
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\obj\Debug\QBToSkuVault.exe
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\obj\Debug\QBToSkuVault.pdb
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\bin\Debug\Newtonsoft.Json.dll
+c:\users\shay\documents\visual studio 2017\Projects\QBToSkuVault\QBToSkuVault\bin\Debug\Newtonsoft.Json.xml

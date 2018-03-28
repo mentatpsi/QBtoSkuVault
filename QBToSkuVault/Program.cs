@@ -165,8 +165,8 @@ namespace QBToSkuVault
             var tokens = new Dictionary<string, string>();
             
             var data = new NameValueCollection() {
-                { "Email", "tomer@timcorpofnj.com" },
-                { "Password", "yrvellayVarona3" }
+                { "Email", "" },
+                { "Password", "" }
             };
             var response = Http.Post("https://app.skuvault.com/api/gettokens?format=json", data);
             System.Console.WriteLine(response);
